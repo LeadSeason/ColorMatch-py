@@ -6,7 +6,7 @@ Simple project made in a day.
 
 ## example output
 
-Original             |  Ascii
+Original             |  Transformed
 :-------------------------:|:-------------------------:
 ![](./assets/example.png)  |  ![](./assets/example-transformed.png)
 
