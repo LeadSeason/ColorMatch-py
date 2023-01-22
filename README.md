@@ -10,6 +10,11 @@ Original             |  Transformed
 :-------------------------:|:-------------------------:
 ![](./assets/example.png)  |  ![](./assets/example-transformed.png)
 
+## Similar projects
+[Ascii-py](https://github.com/LeadSeason/Ascii-py)  
+[BB-to-xterm](https://github.com/LeadSeason/BB-to-xterm)  
+[ColorMatch-cpp](https://github.com/LeadSeason/ColorMatch-cpp) Project remade in python for better performace
+
 ## Install dependencies
 ```
 python -m venv venv
