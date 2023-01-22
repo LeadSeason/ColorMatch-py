@@ -32,3 +32,6 @@ options:
                         File to output procesed image
   -c COLORS, --colors COLORS
 ```
+## faq
+#### sauce for example?
+by [kataro](https://gelbooru.com/index.php?page=post&s=view&id=7639182)
